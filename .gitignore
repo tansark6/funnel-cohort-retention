@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+
+data/raw/online_retail_II.csv
+data/raw/cleaned_retail.csv
+data/raw/cohort_assigned.csv
+data/raw/orders_ranked.csv
