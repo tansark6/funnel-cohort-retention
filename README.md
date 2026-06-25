@@ -1,6 +1,7 @@
 # 📊 Acquisition Funnel & Cohort Retention Analyzer
 
 An interactive Streamlit app that analyzes customer acquisition funnels and retention patterns from e-commerce transaction data — built to demonstrate the **acquisition and retention** stage of the customer lifecycle.
+
 🔗 **Live Demo:** [funnel-cohort-retention-tansark.streamlit.app](https://funnel-cohort-retention-tansark.streamlit.app/)
 🔗 **GitHub Repo:** [github.com/tansark6/funnel-cohort-retention](https://github.com/tansark6/funnel-cohort-retention)
 
